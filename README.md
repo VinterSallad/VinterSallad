@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VinterSallad
-- 👀 I’m interested in Music/Programming/Gammes
+- 👀 I’m interested in Music/Programming/Games
 - 🌱 I’m currently learning Everything
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me: Here
