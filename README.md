@@ -2,7 +2,7 @@
 - 👀 I’m interested in Music/Programming/Games
 - 🌱 I’m currently learning Everything
 - 💞️ I’m looking to collaborate on anything
-- 📫 How to reach me: Here
+- 📫 How to reach me: Wherever you find me
 
 <!---
 VinterSallad/VinterSallad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
