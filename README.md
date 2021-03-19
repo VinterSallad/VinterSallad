@@ -4,6 +4,11 @@
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me: Wherever you find me
 
+Ideas (Note to self)
+- Monitors&Alerters (Currency/Stocks/Crypto) -> Google Extension
+- Reddit Bot
+- Spotify API (Something fun)
+
 <!---
 VinterSallad/VinterSallad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
