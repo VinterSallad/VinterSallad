@@ -5,7 +5,8 @@
 - 📫 How to reach me: Wherever you find me
 
 Ideas (Note to self)
-- Monitors&Alerters (Currency/Stocks/Crypto) -> Google Extension
+- Monitors&Alerters (Currency Conversion Rates/Stocks/Crypto Price/Crypto Network Fees) -> Google Extension
+- Publish App to Google Store
 - Reddit Bot
 - Spotify API (Something fun)
 
