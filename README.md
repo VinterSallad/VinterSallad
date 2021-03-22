@@ -8,6 +8,7 @@ Ideas (Note to self)
 - Monitors&Alerters (Currency Conversion Rates/Stocks/Crypto Price/Crypto Network Fees) -> Google Extension
 - Publish App to Google Store
 - Reddit Bot
+- Twitter Bot (Log from keyword)
 - Spotify API (Something fun)
 
 <!---
